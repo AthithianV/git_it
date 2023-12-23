@@ -1,2 +1,6 @@
 Apps
+<<<<<<< HEAD
 I am Internet
+=======
+I am Inter
+>>>>>>> Internet
